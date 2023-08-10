@@ -74,6 +74,7 @@ dependencies:
  - pint
  - planetary-computer>=0.4.6
  - prefect
+ - prefect-dask
  - pyarrow
  - pycamhd
  - pydap
